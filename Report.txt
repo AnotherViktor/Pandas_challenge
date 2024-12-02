@@ -1,0 +1,20 @@
+                                                                       School-Level Performance
+Spending Ranges (Per Student): The schools were categorized into four spending ranges per student: <$585, $585-630, $630-645, and $645-680. Insights include:
+
+Schools with lower spending per student (<$585) performed better in both math and reading, with average math scores of 83.5 and reading scores of 83.9.
+Higher spending ranges ($645-680) generally show slightly lower performance, with average math scores of 77.0 and reading scores of 81.5.
+School Size: Schools were grouped into three categories based on student population:
+
+Small Schools (<1000): Consistently outperformed larger schools, with average math scores of 83.8 and reading scores of 83.9. Their overall passing rate is the highest at 90.3%.
+Medium Schools (1000-2000): Achieved a moderate performance, with an overall passing rate of 81.0%.
+Large Schools (>2000): Struggled comparatively, with lower average math (77.0) and reading (80.9) scores.
+School Type:
+
+Charter Schools consistently outperform District Schools:
+Charter schools achieved an average math score of 83.5 and an overall passing rate of 90.4%.
+District schools showed lower scores, with an average math score of 76.9 and an overall passing rate of 53.7%.
+                                                              
+                                                          Key Takeaways
+
+Higher spending per student does not necessarily correlate with better performance. Schools with spending under $585 performed better in both math and reading.
+Smaller schools generally perform better in academics, indicating that smaller student populations may allow for more personalized attention and support.
